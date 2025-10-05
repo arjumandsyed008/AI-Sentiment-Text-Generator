@@ -1,0 +1,5 @@
+streamlit
+transformers>=4.0.0
+torch          # or 'torch==2.x' depending on your CUDA/CPU
+sentencepiece  # sometimes required
+nltk           # optional if you choose VADER
